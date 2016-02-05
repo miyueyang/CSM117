@@ -1,0 +1,10 @@
+Prototype...
+
+For now, supports three api calls
+1) /listuser
+2) /newuser/:name/:lon/:lat
+3) /updateuser/:id/:lon/:lat
+
+Setup:
+- Create tables using schema.sql
+- Add user permission and corresponding information in var connection 
